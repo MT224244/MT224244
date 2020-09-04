@@ -1,6 +1,7 @@
 # MT
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MT224244&layout=compact)
+![](https://github-profile-trophy.vercel.app/?username=MT224244)
 
 ## Links
 
