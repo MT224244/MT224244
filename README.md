@@ -1,5 +1,7 @@
 # MT
 
+<img width="20%" style="background-color:black;" src="https://user-images.githubusercontent.com/25514849/93108587-f23d3100-f6ed-11ea-88f1-676f75fb2383.png"/>
+
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=MT224244&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![](https://github-profile-trophy.vercel.app/?username=MT224244)](https://github.com/ryo-ma/github-profile-trophy)
 
