@@ -1,7 +1,7 @@
 # MT
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=MT224244&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![](https://github-profile-trophy.vercel.app/?username=MT224244)](https://github.com/ryo-ma/github-profile-trophy)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=MT224244&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-profile-trophy.vercel.app/?username=MT224244&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Links
 
